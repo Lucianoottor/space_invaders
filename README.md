@@ -18,7 +18,7 @@ Then, the game should open.
 
 The game is simple: you can dodge the shots to the left or right, or hiding behind the obstacles. Your objective is destroy all aliens by shooting at them. You have 3 lives, but there is an extra floating in the space, so shoot it to get it.
 
-### Construction of the project
+## Construction of the project
 
 For this remake, I've used Python 3 and 2 libraries:
   Pygame for developing the game;
