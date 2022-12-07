@@ -9,10 +9,10 @@ your local machine for development and testing purposes. Have fun :)
 
 ### Installing
 
-First, download the directory named space_invades_exec.
-Then, extract the files. Open the executable file named Space Invaders
+First, download the folder named game.
+Then open it with your python compiler.
+Run the main.py file and it should start.
 
-Then, the game should open.
 
 ### How to play
 
@@ -20,6 +20,5 @@ The game is simple: you can dodge the shots to the left or right, or hiding behi
 
 ## Construction of the project
 
-For this remake, I've used Python 3 and 2 libraries:
+For this remake, I've used Python 3 and 1 librarie:
   Pygame for developing the game;
-  cx_Freeze for the executable file.
